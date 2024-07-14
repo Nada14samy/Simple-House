@@ -18,7 +18,7 @@ const Header = () => {
             <nav className="navbar mx-5">
                 <ul className="flex my-6">
                     <NavbarItem className='border-b border-current'>
-                        <Link to='Simple_House/home'>Home</Link>
+                        <Link to='Simple_House/'>Home</Link>
                     </NavbarItem>
                     <NavbarItem>
                         <Link to='Simple_House/about'>About</Link>
