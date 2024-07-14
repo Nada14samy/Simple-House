@@ -18,13 +18,13 @@ const Header = () => {
             <nav className="navbar mx-5">
                 <ul className="flex my-6">
                     <NavbarItem className='border-b border-current'>
-                        <Link to='Simple_House/'>Home</Link>
+                        <Link to='Simple-House/'>Home</Link>
                     </NavbarItem>
                     <NavbarItem>
-                        <Link to='Simple_House/about'>About</Link>
+                        <Link to='Simple-House/about'>About</Link>
                     </NavbarItem>
                     <NavbarItem>
-                        <Link to='Simple_House/contact'>Contact</Link>
+                        <Link to='Simple-House/contact'>Contact</Link>
                     </NavbarItem>
                 </ul>
             </nav>
