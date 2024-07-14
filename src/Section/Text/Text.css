@@ -1,0 +1,14 @@
+@media only screen and (max-width : 1100px) {
+    .text-item{
+        display: block;
+        width:100%;
+    }
+    .image{
+        
+        width:90%;
+    }
+    .content {
+        margin-block: 20px;
+        margin-inline: 15px;
+    }
+}

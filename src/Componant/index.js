@@ -1,0 +1,9 @@
+export {default as NavbarItem} from "./Navbar-item/Navbar-item";
+export {default as MainTitle} from "./MainText/MainTitle";
+export {default as MenuList} from "./MenuList/MenuList";
+export {default as TeamWork} from "./TeamWork/TeamWork";
+export {default as Cards} from "./Cards/Cards";
+export {default as Content} from "./Content/Content";
+export {default as Form} from "./Form/Form";
+export {default as Address} from "./Address/Address";
+export {default as ButtonScroll} from "./ButtonScroll/ButtonScroll";

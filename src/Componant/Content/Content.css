@@ -1,0 +1,8 @@
+@media only screen and  (max-width:699px) {
+    .text {
+        width: 100%;
+    }
+    .content{
+        margin-left: 0px;
+    }
+}

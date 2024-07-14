@@ -1,0 +1,17 @@
+@media only screen and (max-width:1100px){
+    .teamwork{
+        width:100%;
+    }
+}
+@media only screen and (max-width:700px) {
+    .teamwork{
+        display:block;
+    }
+    .teamwork img{
+        margin: auto;
+    }
+    .text{
+        margin-inline: 15px;
+        padding-left:0px;
+    }
+}
