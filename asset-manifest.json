@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Simple-House/static/css/main.e2c5c2de.css",
+    "main.js": "/Simple-House/static/js/main.8e4788ea.js",
+    "static/media/simple-house-01.jpg": "/Simple-House/static/media/simple-house-01.78a971b899af42363545.jpg",
+    "static/media/about-05.jpg": "/Simple-House/static/media/about-05.0ca88727177d99976b02.jpg",
+    "static/media/about-06.jpg": "/Simple-House/static/media/about-06.498a1ded8ec7064cf0ed.jpg",
+    "static/media/img-01.jpg": "/Simple-House/static/media/img-01.9c1c96ec10cd1d930720.jpg",
+    "static/media/about-03.jpg": "/Simple-House/static/media/about-03.e3752c45d30021631dab.jpg",
+    "static/media/about-02.jpg": "/Simple-House/static/media/about-02.35f5603b3fe9d3c8cb53.jpg",
+    "static/media/about-01.jpg": "/Simple-House/static/media/about-01.41cfbf6cca97c86b12e9.jpg",
+    "static/media/about-04.jpg": "/Simple-House/static/media/about-04.a7b033f9d616574b6e91.jpg",
+    "index.html": "/Simple-House/index.html",
+    "main.e2c5c2de.css.map": "/Simple-House/static/css/main.e2c5c2de.css.map",
+    "main.8e4788ea.js.map": "/Simple-House/static/js/main.8e4788ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2c5c2de.css",
+    "static/js/main.8e4788ea.js"
+  ]
+}
